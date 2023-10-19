@@ -6,3 +6,7 @@ print("hi krunal")
 print("vaibhav ambavkar ")
 print("tejas")
 print("varun")
+
+print("q")
+print("r")
+print("s")
